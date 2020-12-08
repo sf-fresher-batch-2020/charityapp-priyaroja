@@ -1,0 +1,9 @@
+[submodule "charityapp-ui"]
+	path = charityapp-ui
+	url = https://github.com/sf-fresher-batch-2020/charityapp-ui.git
+[submodule "charityapp-api"]
+	path = charityapp-api
+	url = https://github.com/sf-fresher-batch-2020/charityapp-api.git
+[submodule "charityapp-angular-ui"]
+	path = charityapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/charityapp-angular-ui.git
