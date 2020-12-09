@@ -7,3 +7,6 @@
 [submodule "charityapp-angular-ui"]
 	path = charityapp-angular-ui
 	url = https://github.com/sf-fresher-batch-2020/charityapp-angular-ui.git
+[submodule "charityapp-mock-api"]
+	path = charityapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/charityapp-mock-api.git
